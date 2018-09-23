@@ -1,0 +1,21 @@
+{
+    "python.pythonPath": "C:\\Users\\Mohammed\\shop\\Scripts",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Include/": true,
+        "**/Scripts/": true,
+        "**/Lib/": true,
+        "**/.pycache": true,
+    },
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.mypyArgs": [
+        "--follow-imports=silent"
+    ],
+    "python.linting.pylintEnabled": false,
+    "editor.formatOnSave": true,
+}

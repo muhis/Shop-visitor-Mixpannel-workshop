@@ -18,4 +18,11 @@
     ],
     "python.linting.pylintEnabled": false,
     "editor.formatOnSave": true,
+    "python.unitTest.pyTestArgs": [
+        "tests.py"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.promptToConfigure": true,
 }
